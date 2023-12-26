@@ -3,7 +3,7 @@ This is a completed Python project as part of Cornell Tech's CS 5781 Machine Lea
 
 - Docs: https://minitorch.github.io/
 
-This project is designed to be a simple, minimal PyTorch implementation that aims to cover essential PyTorch concepts:
+This project is designed to be a simple, minimal PyTorch implementation that aims to cover essential Machine Learning and PyTorch concepts:
 
 - ML Programming Foundations
 - Autodifferentiation
